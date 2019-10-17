@@ -1,8 +1,9 @@
-HousePy
-                   Analysis of Houston’s Housing Market (2015-2019)
-Goal: Exploratory analysis of the Houston's hosing market from September 1, 2015-August 31 2019.
-Questions:
+#HousePy
+ #                  Analysis of Houston’s Housing Market (2015-2019)
+ 
+#Goal: Exploratory analysis of the Houston's hosing market from September 1, 2015-August 31 2019.
 
+#Questions:
 1. Which subdivisions are appreciating/depreciating and undergoing gentrification?
 2.  What areas are considered affordable for average income families?
 3. Which market areas have properties with more/less days  in the market? and what are the  implications of it?
